@@ -1,0 +1,19 @@
+{
+  "packs": [
+    {
+      "id": "essentials",
+      "name": "Daily Essentials",
+      "stickers": [
+        { "id": "e1", "src": "PASTE_RAW_LINK_TO_PNG_HERE" },
+        { "id": "e2", "src": "PASTE_RAW_LINK_TO_PNG_HERE" }
+      ]
+    },
+    {
+      "id": "festivals",
+      "name": "Festivals (Ugadi)",
+      "stickers": [
+        { "id": "f1", "src": "PASTE_RAW_LINK_TO_PNG_HERE" }
+      ]
+    }
+  ]
+}
