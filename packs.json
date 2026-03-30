@@ -4,15 +4,34 @@
       "id": "essentials",
       "name": "Daily Essentials",
       "stickers": [
-        { "id": "e1", "src": "PASTE_RAW_LINK_TO_PNG_HERE" },
-        { "id": "e2", "src": "PASTE_RAW_LINK_TO_PNG_HERE" }
+        { "id": "e1", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/namaskaara.webp" },
+        { "id": "e2", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/namaskaara.webp" },
+        { "id": "e3", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/namaskaara.webp" },
+        { "id": "e4", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/namaskaara.webp" },
+        { "id": "e5", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/namaskaara.webp" },
+        { "id": "e6", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/namaskaara.webp" },
       ]
     },
     {
       "id": "festivals",
-      "name": "Festivals (Ugadi)",
+      "name": "Festivals",
       "stickers": [
-        { "id": "f1", "src": "PASTE_RAW_LINK_TO_PNG_HERE" }
+        { "id": "f1", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/Yakshagana_sticker.webp" }
+      ]
+    },
+      {
+      "id": "Kaundapra",
+      "name": "Kundapura",
+      "stickers": [
+        { "id": "g1", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/KD.webp" },
+        { "id": "g2", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/KD.webp" },
+        { "id": "g3", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/KD.webp" },
+        { "id": "g4", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/KD.webp" },
+        { "id": "g5", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/KD.webp" },
+        { "id": "g6", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/KD.webp" },
+        { "id": "g7", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/KD.webp" },
+        { "id": "g8", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/KD.webp" },
+        { "id": "g9", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/KD.webp" },
       ]
     }
   ]
