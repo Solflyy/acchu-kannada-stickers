@@ -16,14 +16,14 @@
       "id": "Namma Karnataka",
       "name": "ನಮ್ಮ ಕರ್ನಾಟಕ",
       "stickers": [
-        { "id": "f1", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/01.png" },
-        { "id": "f2", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/02.png" },
-        { "id": "f3", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/03.png" },
-        { "id": "f4", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/04.png" },
-        { "id": "f5", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/05.png" },
-        { "id": "f6", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/06.png" },
-        { "id": "f7", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/07.png" },
-        { "id": "f8", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/08.png" }
+        { "id": "f1", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/01.png", "isTintable": true },
+        { "id": "f2", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/02.png", "isTintable": true },
+        { "id": "f3", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/03.png", "isTintable": true },
+        { "id": "f4", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/04.png", "isTintable": true },
+        { "id": "f5", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/05.png", "isTintable": true },
+        { "id": "f6", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/06.png", "isTintable": true },
+        { "id": "f7", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/07.png", "isTintable": true },
+        { "id": "f8", "src": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/08.png", "isTintable": true }
       ]
     },
     {
