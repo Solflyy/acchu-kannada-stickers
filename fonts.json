@@ -2,8 +2,14 @@
   "cloudFonts": [
     
     { "label": "--- CLEAN & MODERN ---", "value": "dummy1", "url": "" },
-    { "label": "Akaya", "value": "Akaya", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/AkayaKanadaka-Regular.ttf" },
-    { "label": "Anek", "value": "Anek", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/AnekKannada-VariableFont_wdth,wght.ttf" },
+    { "label": "Anek", "value": "Anek", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/AnekKannada-Regular.ttf" },
+    { "label": "Anek Thin", "value": "AnekThin", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/AnekKannada-Thin.ttf", "isVariationOnly": true },
+    { "label": "Anek ExtraLight", "value": "AnekExtraLight", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/AnekKannada-ExtraLight.ttf", "isVariationOnly": true },
+    { "label": "Anek Light", "value": "AnekLight", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/AnekKannada-Light.ttf", "isVariationOnly": true },
+    { "label": "Anek Medium", "value": "AnekMedium", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/AnekKannada-Medium.ttf", "isVariationOnly": true },
+    { "label": "Anek SemiBold", "value": "AnekSemiBold", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/AnekKannada-SemiBold.ttf", "isVariationOnly": true },
+    { "label": "Anek Bold", "value": "AnekBold", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/AnekKannada-Bold.ttf", "isVariationOnly": true },
+    { "label": "Anek ExtraBold", "value": "AnekExtraBold", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/AnekKannada-ExtraBold.ttf", "isVariationOnly": true },
     { "label": "Lohit", "value": "Lohit", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Lohit_Kannada.ttf" },
     { "label": "Tunga", "value": "Tunga", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Tunga.ttf" },
 
