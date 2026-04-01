@@ -1,0 +1,41 @@
+{
+  "cloudFonts": [
+    
+    { "label": "--- CLEAN & MODERN ---", "value": "dummy1", "url": "" },
+    { "label": "Akaya", "value": "Akaya", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/AkayaKanadaka-Regular.ttf" },
+    { "label": "Anek", "value": "Anek", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/AnekKannada-VariableFont_wdth,wght.ttf" },
+    { "label": "Lohit", "value": "Lohit", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Lohit_Kannada.ttf" },
+    { "label": "Tunga", "value": "Tunga", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Tunga.ttf" },
+
+    { "label": "--- BLR SERIES ---", "value": "dummy2", "url": "" },
+    { "label": "BLR Dot", "value": "ATSDot", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/ATSBengaluru-DotRegular.ttf" },
+    { "label": "BLR LED", "value": "ATSLED", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/ATSBengaluru-LEDRegular.ttf" },
+    { "label": "BLR Pixel", "value": "ATSPixel", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/ATSBengaluru-PixelRegular.ttf" },
+    { "label": "BLR Square", "value": "ATSSquare", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/ATSBengaluru-SquareRegular.ttf" },
+
+    { "label": "--- CLASSIC AUTHORS ---", "value": "dummy3", "url": "" },
+    { "label": "Adiga", "value": "Adiga", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Gopalakrishna-Adiga.ttf" },
+    { "label": "Anantha", "value": "Anantha", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-UR-Ananthamurthy.ttf" },
+    { "label": "Bandipura", "value": "ATSBandipura", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/ATSBandipura-Bold.ttf" },
+    { "label": "Bendre", "value": "Bendre", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Da-Raa-Bendre.ttf" },
+    { "label": "Chikkamagaluru", "value": "ATSChikkamagaluru", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/ATSChikkamagaluru-Regular.ttf" },
+    { "label": "Gokak", "value": "Gokak", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Vi-Kru-Gokak.ttf" },
+    { "label": "Gubbi", "value": "Gubbi", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Gubbi.ttf" },
+    { "label": "Kambara", "value": "Kambara", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Chandrashekhara-Kambara.ttf" },
+    { "label": "Karantha", "value": "Karantha", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Shivarama-Karantha.ttf" },
+    { "label": "Karnad", "value": "Karnad", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Girish-Karnad.ttf" },
+    { "label": "Kedage", "value": "Kedage", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kedage.ttf" },
+    { "label": "Kuvempu", "value": "Kuvempu", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Kuvempu.ttf" },
+    { "label": "Maasthi", "value": "Maasthi", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Maasthi.ttf" },
+    { "label": "Malige", "value": "Malige", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Malige.ttf" },
+    { "label": "Narasimha", "value": "Narasimha", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-KS-Narasimhaswamy.ttf" },
+    { "label": "Patrick", "value": "PatrickHand", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/PatrickHand-Regular.ttf" },
+    { "label": "Puchamthe", "value": "Puchamthe", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Puchamthe.ttf" },
+    { "label": "Puthina", "value": "Puthina", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Puthina.ttf" },
+
+    { "label": "--- ACCHU KANNADA PRO ---", "value": "dummy4", "url": "" },
+    { "label": "Golden Script", "value": "premium1", "url": "", "isPremium": true },
+    { "label": "Cinematic Block", "value": "premium2", "url": "", "isPremium": true },
+    { "label": "Vintage Typewriter", "value": "premium3", "url": "", "isPremium": true }
+  ]
+}
