@@ -8,10 +8,8 @@
     { "label": "Lohit", "value": "Lohit", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Lohit_Kannada.ttf" },
 
     { "label": "--- CLEAN & MODERN ---", "value": "dummy_modern", "url": "" },
-    { "label": "Anek Regular", "value": "Anek", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/AnekKannada-Regular.ttf" },
     { "label": "Akaya", "value": "Akaya", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/AkayaKanadaka-Regular.ttf" },
     { "label": "Gubbi", "value": "Gubbi", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Gubbi.ttf" },
-    { "label": "Kedage", "value": "Kedage", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kedage.ttf" },
     { "label": "Malige", "value": "Malige", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Malige.ttf" },
     { "label": "Patrick Hand", "value": "PatrickHand", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/PatrickHand-Regular.ttf" },
 
@@ -20,12 +18,10 @@
     { "label": "Bendre", "value": "Bendre", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Da-Raa-Bendre.ttf" },
     { "label": "Karantha", "value": "Karantha", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Shivarama-Karantha.ttf" },
     { "label": "Adiga", "value": "Adiga", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Gopalakrishna-Adiga.ttf" },
-    { "label": "Anantha", "value": "Anantha", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-UR-Ananthamurthy.ttf" },
     { "label": "Karnad", "value": "Karnad", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Girish-Karnad.ttf" },
     { "label": "Maasthi", "value": "Maasthi", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Maasthi.ttf" },
     { "label": "Narasimha", "value": "Narasimha", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-KS-Narasimhaswamy.ttf" },
     { "label": "Puthina", "value": "Puthina", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Puthina.ttf" },
-    { "label": "Gokak", "value": "Gokak", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Vi-Kru-Gokak.ttf" },
     { "label": "Puchamthe", "value": "Puchamthe", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Puchamthe.ttf" },
 
     { "label": "--- BLR SERIES ---", "value": "dummy_blr", "url": "" },
