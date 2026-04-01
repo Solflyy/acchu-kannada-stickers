@@ -34,8 +34,6 @@
     { "label": "Puthina", "value": "Puthina", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/Kar-Puthina.ttf" },
 
     { "label": "--- ACCHU KANNADA PRO ---", "value": "dummy4", "url": "" },
-    { "label": "Golden Script", "value": "premium1", "url": "", "isPremium": true },
-    { "label": "Cinematic Block", "value": "premium2", "url": "", "isPremium": true },
-    { "label": "Vintage Typewriter", "value": "premium3", "url": "", "isPremium": true }
+    { "label": "Coming Soon", "value": "premium1", "url": "", "isPremium": true }
   ]
 }
