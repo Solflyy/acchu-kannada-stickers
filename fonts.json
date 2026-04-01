@@ -1,6 +1,5 @@
 {
   "cloudFonts": [
-    
     { "label": "--- CLEAN & MODERN ---", "value": "dummy1", "url": "" },
     { "label": "Anek", "value": "Anek", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/AnekKannada-Regular.ttf" },
     { "label": "Anek Thin", "value": "AnekThin", "url": "https://raw.githubusercontent.com/Solflyy/acchu-kannada-stickers/refs/heads/main/fonts/AnekKannada-Thin.ttf", "isVariationOnly": true },
